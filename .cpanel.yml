@@ -1,0 +1,6 @@
+---
+  deployment:
+    tasks:
+      - export DEPLOYPATH=/home/jevkydtm5iqv/repositories/Titangeum/
+      - /bin/cp -r * $DEPLOYPATH
+  
